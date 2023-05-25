@@ -1,0 +1,50 @@
+{/*email, password*/
+    width: 280px;
+    outline: none;/*quitar borde azul*/
+    height: 30px;
+    border-radius: 10px;
+    border-color: palevioletred;
+
+}
+
+{/*submit*/
+    background-color: black;
+    height: 30px;
+    width: 150px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+/* registrar usuario*/
+.input-login{
+    color: black;
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    border-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.submit {
+    background-color: black ;
+    width: 250px;
+    height: 20px;
+    border-radius: 10px;
+    border-color: blue;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input {
+    cursor: pointer;
+    color: black;
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    border-color: blue;
+}
+.text-center{
+    text-align: center;
+    
+}
